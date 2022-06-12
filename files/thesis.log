@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.6)  6 JUN 2022 23:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.6)  12 JUN 2022 13:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -652,7 +652,8 @@ Writing index file thesis.idx
 File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count300
 \l__pdf_internal_box=\box58
-) (thesis.aux (title.aux) (toc.aux) (Ingredients.aux) (Filling.aux))
+) (thesis.aux (title.aux) (toc.aux) (Ingredients.aux) (Filling.aux)
+(PreparationDough.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
@@ -889,27 +890,39 @@ chapter 2.
 
 
 ]
-No file thesis.bbl.
+\openout2 = `PreparationDough.aux'.
+
+ (PreparationDough.tex (tables/PreparationDough.tex
+chapter 3.
+)) [3
+
+
+
+
+
+]
 No file thesis.ind.
-(thesis.aux (title.aux) (toc.aux) (Ingredients.aux) (Filling.aux))
+(thesis.aux (title.aux) (toc.aux) (Ingredients.aux) (Filling.aux)
+(PreparationDough.aux))
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 20081 strings out of 478614
- 384320 string characters out of 2844539
+ 20131 strings out of 478614
+ 385746 string characters out of 2844539
  877318 words of memory out of 3000000
- 37815 multiletter control sequences out of 15000+600000
- 505098 words of font info for 119 fonts, out of 8000000 for 9000
+ 37840 multiletter control sequences out of 15000+600000
+ 507687 words of font info for 128 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,20n,106p,10603b,582s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/JD/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Us
 ers/JD/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Us
 ers/JD/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Us
+ers/JD/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Us
 ers/JD/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on thesis.pdf (4 pages, 39292 bytes).
+Output written on thesis.pdf (5 pages, 54999 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 46097 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 66 PDF objects out of 1000 (max. 8388607)
+ 9 named destinations out of 1000 (max. 500000)
+ 52249 words of extra memory for PDF output out of 61914 (max. 10000000)
 
