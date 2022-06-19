@@ -1,9 +1,0 @@
-\babel@toc {ngerman}{}\relax 
-\babel@toc {ngerman}{}\relax 
-\babel@toc {ngerman}{}\relax 
-\contentsline {chapter}{\numberline {1}Ingredients}{1}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Filling}{2}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Preparation of Dough}{3}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Preparation of the filling, it is better to prepare it the day before}{4}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Preparation Vegetarian}{5}{chapter.5}%
-\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
